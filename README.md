@@ -3,6 +3,8 @@
 This is the implementation of nameDL following [Bulletproofs][bp_website].
 Our code is in [namedl-pad.rs](benches/namedl-pad.rs).
 
+Below is the Readme of Bulletproofs.
+
 # Bulletproofs
 
 <img
