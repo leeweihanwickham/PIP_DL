@@ -1,6 +1,6 @@
-# Namedl: Bulletproofs with sublinear verifier
+# PIP<sub>DL</sub>: Bulletproofs with sublinear verifier
 
-This is the implementation of nameDL following [Bulletproofs][bp_website].
+This is the implementation of PIP<sub>DL</sub> following [Bulletproofs][bp_website].
 Our code is in [namedl-pad.rs](benches/namedl-pad.rs).
 
 Below is the Readme of Bulletproofs.
